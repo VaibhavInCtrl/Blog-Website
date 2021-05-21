@@ -1,0 +1,46 @@
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-brand{
+    padding-left: 10%;
+    font-size: 1.76rem;
+    font-weight: 300;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav{
+    padding-right: 12%;
+    font-size: 0.8rem;
+}
+.nav-item{
+    padding: 0 2%;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #f8f5f1;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+}
